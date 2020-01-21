@@ -5,7 +5,7 @@ dependencies:
   repository: http://chartmuseum.jenkins-x.io
 - name: import-app-test
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.7
+  version: 0.0.8
 - name: jenkins-x-platform
   repository: http://chartmuseum.jenkins-x.io
 - name: jx-app-ui
